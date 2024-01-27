@@ -1,7 +1,3 @@
-Great! Since you've provided the repository URL, I can tailor the README to match your Travel Suggestion Bot project more closely. Here's a revised README for your GitHub repository:
-
----
-
 # Travel Suggestion Bot
 
 ## Overview
